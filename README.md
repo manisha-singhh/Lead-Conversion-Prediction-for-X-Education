@@ -5,7 +5,7 @@ This project aims to build a **Logistic Regression-based Lead Scoring Model** fo
  
 ## 📂 Project Structure
 
-----------File Name------------                                 -------------Description---------------- 
+     -------File Name--------                                       ----------Description---------
  
 Capstone Project - Lead Scores Analysis.ipynb            -----Complete Python notebook with EDA, model training, evaluation & prediction 
 Leads.csv                                                -----Cleaned dataset of ~9,000 leads used for analysis and modeling              
