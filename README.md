@@ -5,15 +5,15 @@ This project aims to build a **Logistic Regression-based Lead Scoring Model** fo
  
 ## 📂 Project Structure
 
-File Name                                            Description 
+----------File Name------------                                 -------------Description---------------- 
  
-Capstone Project - Lead Scores Analysis.ipynb            Complete Python notebook with EDA, model training, evaluation & prediction 
-Leads.csv                                                Cleaned dataset of ~9,000 leads used for analysis and modeling              
-Leads Data Dictionary.xlsx                               Column descriptions and metadata                                            
-Q&A Lead Scores Analysis.docx                            Answers to subjective questions provided by X Education                    
-Summary of Lead Conversion Project for X Education.pdf   Summary report of approach, results, and learning outcomes  
-X_Education_Lead_Conversion_PPT_Final.pdf                Final business presentation including findings and recommendations         
-Assignment Subjective Questions.pdf                      Questions provided by the company for interpretation and modeling insights 
+Capstone Project - Lead Scores Analysis.ipynb            -----Complete Python notebook with EDA, model training, evaluation & prediction 
+Leads.csv                                                -----Cleaned dataset of ~9,000 leads used for analysis and modeling              
+Leads Data Dictionary.xlsx                               -----Column descriptions and metadata                                            
+Q&A Lead Scores Analysis.docx                            -----Answers to subjective questions provided by X Education                    
+Summary of Lead Conversion Project for X Education.pdf   -----Summary report of approach, results, and learning outcomes  
+X_Education_Lead_Conversion_PPT_Final.pdf                -----Final business presentation including findings and recommendations         
+Assignment Subjective Questions.pdf                      -----Questions provided by the company for interpretation and modeling insights 
 
 ## Key Techniques Used
 
